@@ -24,6 +24,7 @@ while True:      # les phrases qui sont devant le hashtag sont juste des comment
                     Q = nbr // 10
                     R = nbr % 10
                     print("le chiffre des milliers est:", R)
+                    print("Fin de programme")
         break # ca veut dire stop, et relence le programme si ce cas est choisis
 
     else :
