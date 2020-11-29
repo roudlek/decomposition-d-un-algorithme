@@ -28,3 +28,4 @@ while True:
 
     else :
         print("veuillez entrer un nombre entier positif entre[0;9999]")
+        continue
